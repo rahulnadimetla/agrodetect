@@ -1,0 +1,7 @@
+{
+  "name": "AgroDetect AI",
+  "description": "AI-powered plant disease detection system using deep learning and computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
